@@ -22,5 +22,12 @@ This web app is designed to raise awareness and assist in early detection of dia
 🔗 **Try out the web app yourself and see how technology can help monitor your health**: 51.20.141.197:8080
 
 Let me know what you think and feel free to share your thoughts! 💬
+![webapp](https://github.com/user-attachments/assets/11f243ed-06f1-418b-8348-3129d4b85a47)
+
+
+
+https://github.com/user-attachments/assets/711b39ae-f145-4cfb-a7fc-7d0fa1531edb
+
+
 
 #MachineLearning #HealthTech #AI #Flask #DiabetesPrediction #AWS #PuTTY #WinSCP #DataScience #InteractiveApp #HealthInnovation
